@@ -43,7 +43,10 @@ q
 
 
 
-body { color: #1b1b1b; }
+body { 
+	font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, Arial, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #1b1b1b;
+}
 a.link { color: #39ce39; text-decoration: underline; }
 a.link:hover { color: #39ce39; }
 a.link:visited { color: #39ce39; }
